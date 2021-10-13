@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(6f2f2c35-0cb8-4754-ac36-ffbfb3438157.jfif);
+    background-position:center;
+    background-size:1100px;
+}
+#myCanvas
+{
+  border-width: 10px;
+  border-style: ridge; 
+  background-color: aliceblue;
+  border-color: black;
+}
+
